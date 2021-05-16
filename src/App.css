@@ -6,6 +6,11 @@
   height: 40vmin;
   pointer-events: none;
 }
+h1{
+  font-family:"Reggae One";
+  font-size:72px;
+  color:aqua;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {
