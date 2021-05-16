@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/RoboFinder/static/css/main.4cf91527.chunk.css",
+    "main.js": "/RoboFinder/static/js/main.c29a5378.chunk.js",
+    "main.js.map": "/RoboFinder/static/js/main.c29a5378.chunk.js.map",
+    "runtime-main.js": "/RoboFinder/static/js/runtime-main.82b183c8.js",
+    "runtime-main.js.map": "/RoboFinder/static/js/runtime-main.82b183c8.js.map",
+    "static/js/2.e8b4e775.chunk.js": "/RoboFinder/static/js/2.e8b4e775.chunk.js",
+    "static/js/2.e8b4e775.chunk.js.map": "/RoboFinder/static/js/2.e8b4e775.chunk.js.map",
+    "static/js/3.e2f0cec9.chunk.js": "/RoboFinder/static/js/3.e2f0cec9.chunk.js",
+    "static/js/3.e2f0cec9.chunk.js.map": "/RoboFinder/static/js/3.e2f0cec9.chunk.js.map",
+    "index.html": "/RoboFinder/index.html",
+    "static/css/main.4cf91527.chunk.css.map": "/RoboFinder/static/css/main.4cf91527.chunk.css.map",
+    "static/js/2.e8b4e775.chunk.js.LICENSE.txt": "/RoboFinder/static/js/2.e8b4e775.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.82b183c8.js",
+    "static/js/2.e8b4e775.chunk.js",
+    "static/css/main.4cf91527.chunk.css",
+    "static/js/main.c29a5378.chunk.js"
+  ]
+}
